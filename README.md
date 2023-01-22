@@ -1,8 +1,6 @@
 Hi there 👋
 
-I am a fourth year undergraduate student at Indian Institute of Technology Kharagpur
-
-Domains of Interest -> Computer Vision, NLP, Deep Unsupervised Learning.
+I am a fourth year undergraduate student at Indian Institute of Technology Kharagpur. 
 
 <!---
 maitridas/maitridas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
